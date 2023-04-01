@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Membership",
+    "price": 19.99,
+    "features": [
+      "Gym access",
+      "Fitness consultation",
+      "Basic classes",
+      "Locker rental"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Premium Membership",
+    "price": 39.99,
+    "features": [
+      "Gym access",
+      "Fitness consultation",
+      "Unlimited classes",
+      "Locker rental",
+      "Sauna access",
+      "Personal training"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Corporate Membership",
+    "price": 59.99,
+    "features": [
+      "Gym access",
+      "Fitness consultation",
+      "Unlimited classes",
+      "Locker rental",
+      "Sauna access",
+      "Personal training",
+      "Massage therapy",
+      "Smoothie bar access"
+    ]
+  }
+]
